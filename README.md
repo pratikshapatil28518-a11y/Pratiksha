@@ -1,5 +1,6 @@
 # Pratiksha
 Assignment 3
+1)
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 c = int(input("Enter third number: "))
@@ -17,7 +18,7 @@ Enter second number: 20
 Enter third number: 30
 Greatest number = 30
 
-
+2)
 num = int(input("Enter a number: "))
 
 if num % 2 == 0:
@@ -29,7 +30,7 @@ OUTPUT
 Enter a number: 25
 Odd number
 
-
+3)
 ch = input("Enter a character: ")
 
 if ch.isalpha():
@@ -45,7 +46,7 @@ OUTPUT
 Enter a character: z
 Lowercase letter
 
-
+4)
 ch = input("Enter any input: ")
 
 if ch.isdigit():
