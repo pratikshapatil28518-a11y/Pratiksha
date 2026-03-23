@@ -15,6 +15,7 @@ else:
 
 
 OUTPUT 
+
 Enter first number: 10
 Enter second number: 20
 Enter third number: 30
@@ -30,6 +31,7 @@ else:
 
 
 OUTPUT 
+
 Enter a number: 25
 Odd number
 
@@ -59,6 +61,7 @@ else:
 
 
 OUTPUT 
+
 Enter any input: Pratiksha
 It is a character
 
