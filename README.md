@@ -13,6 +13,7 @@ elif b >= a and b >= c:
 else:
     print("Greatest number =", c)
 
+
 OUTPUT 
 Enter first number: 10
 Enter second number: 20
@@ -26,6 +27,7 @@ if num % 2 == 0:
     print("Even number")
 else:
     print("Odd number")
+
 
 OUTPUT 
 Enter a number: 25
@@ -54,6 +56,7 @@ if ch.isdigit():
     print("It is a number")
 else:
     print("It is a character")
+
 
 OUTPUT 
 Enter any input: Pratiksha
